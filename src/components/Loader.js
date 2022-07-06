@@ -7,7 +7,6 @@ const Loader = () => {
     return (
         <div>
             <img src={gifloader} alt="Loading" />
-            <h1>Loading ...</h1>
         </div>
     );
 };

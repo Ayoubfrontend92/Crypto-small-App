@@ -23,3 +23,14 @@
   background: white;
   box-shadow: rgba(74, 74, 74, 0.24) 0px 3px 8px;
 }
+
+
+@media (max-width:480px) {
+  .coinContainer {
+    margin: 50px auto;
+    border: 1px solid silver;
+    border-radius: 10px;
+    width: 95%;
+    background-color: #F9F9F9;
+  }
+}

@@ -49,7 +49,7 @@ const Landing = () => {
                             />)
                         }
                     </div> :
-
+                            
                     <Loader />
             }
         </>
